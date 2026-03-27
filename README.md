@@ -11,7 +11,7 @@ Hourly concentrations and air quality index for fine dust of the 2.5 micron frac
 - Pandas
 - Matplotlib
 - Power BI
-- 
+ 
 ## What was done
 - Data cleaning and preprocessing
 - Exploratory data analysis
