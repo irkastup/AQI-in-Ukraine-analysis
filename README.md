@@ -1,5 +1,5 @@
 # AQI-in-Ukraine-analysis
-Analysis of the air quallity index of the regions of Ukraine 
+Analysis of the air quality index of the regions of Ukraine 
 
 ## Data
 https://data.gov.ua/dataset/51558857-4f00-4166-bd0b-152e8e637434
